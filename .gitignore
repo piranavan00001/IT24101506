@@ -1,0 +1,16 @@
+# Compiled binaries and objects
+*.o
+*.out
+exercise2_sum
+exercise3_monte_carlo_pi
+exercise5_mismatch
+exercise5_bsend
+exercise6_monte_carlo_any_source
+exercise7_monte_carlo_bsend
+test_msg
+Job1
+
+# Temporary and log files
+*.log
+scratch/
+__pycache__/
